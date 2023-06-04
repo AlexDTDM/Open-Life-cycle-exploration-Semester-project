@@ -1,0 +1,117 @@
+Equipement type,SI unit value,Description,Model name,Link ,Quantity,Mass (g),Type,Ecoinvent caracteristics (hypotheses),Categories plus simple,category,Link,
+"Resistances 4,7K Ohm",4700,"Surface mount pads, Chip Resistor, 2-Leads, Body 1,0x0,5mm, IPC Medium Density", RESC1005X04N,"https://circuithub,com/projects/melissa/tasha-altium/revisions/1818/parts","18,00","0,00","resistor production, surface-mounted","mass = 9,8mg",Basic electronic ,Resistance,,"0,018"
+Resistances 33 Ohm,33,"Surface mount pads, Chip Resistor, 2-Leads, Body 1,0x0,5mm, IPC Medium Density", RESC1005X04N,,"2,00","0,00","resistor production, surface-mounted",,Basic electronic ,Resistance,,"0,002"
+"Resistances 2,7K Ohm",2700,"Surface mount pads, Chip Resistor, 2-Leads, Body 1,0x0,5mm, IPC Medium Density", RESC1005X04N,,"2,00","0,00","resistor production, surface-mounted",,Basic electronic ,Resistance,,"0,002"
+Resistances 22K Ohm,22000,"Surface mount pads, Chip Resistor, 2-Leads, Body 1,0x0,5mm, IPC Medium Density", RESC1005X04N,,"10,00","0,00","resistor production, surface-mounted",,Basic electronic ,Resistance,,"0,01"
+"Resistances 2,2K Ohm",2200,"Surface mount pads, Chip Resistor, 2-Leads, Body 1,0x0,5mm, IPC Medium Density", RESC1005X04N,,"17,00","0,00","resistor production, surface-mounted",,Basic electronic ,Resistance,,"0,017"
+"Resistances 1,5K Ohm",1500,"Surface mount pads, Chip Resistor, 2-Leads, Body 1,0x0,5mm, IPC Medium Density", RESC1005X04N,,"7,00","0,00","resistor production, surface-mounted",,Basic electronic ,Resistance,,"0,007"
+Resistances 1K Ohm,1000,"Surface mount pads, Chip Resistor, 2-Leads, Body 1,0x0,5mm, IPC Medium Density", RESC1005X04N,,"10,00","0,00","resistor production, surface-mounted",,Basic electronic ,Resistance,,"0,01"
+Resistances 10K Ohm,10000,"Surface mount pads, Chip Resistor, 2-Leads, Body 1,0x0,5mm, IPC Medium Density", RESC1005X04N,,"16,00","0,00","resistor production, surface-mounted",,Basic electronic ,Resistance,,"0,016"
+"Resistances 6,2 Ohm","6,2","Surface mount pads, Chip Resistor, 2-Leads, Body 1,0x0,5mm, IPC Medium Density", RESC1005X04N,,"7,00","0,00","resistor production, surface-mounted",,Basic electronic ,Resistance,,"0,007"
+Resistances 56 Ohm,56,"Surface mount pads, Chip Resistor, 2-Leads, Body 1,0x0,5mm, IPC Medium Density", RESC1005X04N,,"18,00","0,00","resistor production, surface-mounted",,Basic electronic ,Resistance,,"0,018"
+Resistances 39 Ohm,39,"Surface mount pads, Chip Resistor, 2-Leads, Body 1,0x0,5mm, IPC Medium Density", RESC1005X04N,,"14,00","0,00","resistor production, surface-mounted",,Basic electronic ,Resistance,,"0,014"
+Resistances 200 Ohm,200,"Surface mount pads, Chip Resistor, 2-Leads, Body 1,0x0,5mm, IPC Medium Density", RESC1005X04N,,"4,00","0,00","resistor production, surface-mounted",,Basic electronic ,Resistance,,"0,004"
+Resistances 82 Ohm,82,"Surface mount pads, Chip Resistor, 2-Leads, Body 1,0x0,5mm, IPC Medium Density", RESC1005X04N,,"4,00","0,00","resistor production, surface-mounted",,Basic electronic ,Resistance,,"0,004"
+Resistances 100 Ohm,100,"Surface mount pads, Chip Resistor, 2-Leads, Body 1,0x0,5mm, IPC Medium Density", RESC1005X04N,,"4,00","0,00","resistor production, surface-mounted",,Basic electronic ,Resistance,,"0,004"
+Resistances 180 Ohm,180,"Surface mount pads, Chip Resistor, 2-Leads, Body 1,0x0,5mm, IPC Medium Density", RESC1005X04N,,"2,00","0,00","resistor production, surface-mounted",,Basic electronic ,Resistance,,"0,002"
+"Resistances 5,6K Ohm",5600,"Surface mount pads, Chip Resistor, 2-Leads, Body 1,0x0,5mm, IPC Medium Density", RESC1005X04N,,"2,00","0,00","resistor production, surface-mounted",,Basic electronic ,Resistance,,"0,002"
+Resistances 100K Ohm,100000,"Surface mount pads, Chip Resistor, 2-Leads, Body 1,0x0,5mm, IPC Medium Density", RESC1005X04N,,"15,00","0,00","resistor production, surface-mounted",,Basic electronic ,Resistance,,"0,015"
+Resistances 680K Ohm,680000,"Surface mount pads, Chip Resistor, 2-Leads, Body 1,0x0,5mm, IPC Medium Density", RESC1005X04N,,"1,00","0,00","resistor production, surface-mounted",,Basic electronic ,Resistance,,"0,001"
+"Resistances 6,8K Ohm",6800,"Surface mount pads, Chip Resistor, 2-Leads, Body 1,0x0,5mm, IPC Medium Density", RESC1005X04N,,"1,00","0,00","resistor production, surface-mounted",,Basic electronic ,Resistance,,"0,001"
+Resistances 820 Ohm,820,"Surface mount pads, Chip Resistor, 2-Leads, Body 1,0x0,5mm, IPC Medium Density", RESC1005X04N,,"5,00","0,00","resistor production, surface-mounted",,Basic electronic ,Resistance,,"0,005"
+Resistances 47K Ohm,47000,"Surface mount pads, Chip Resistor, 2-Leads, Body 1,0x0,5mm, IPC Medium Density", RESC1005X04N,,"1,00","0,00","resistor production, surface-mounted",,Basic electronic ,Resistance,,"0,001"
+Resistances 270K Ohm,270000,"Surface mount pads, Chip Resistor, 2-Leads, Body 1,0x0,5mm, IPC Medium Density", RESC1005X04N,,"1,00","0,00","resistor production, surface-mounted",,Basic electronic ,Resistance,,"0,001"
+Resistances 0 Ohm,0,"Surface mount pads, Chip Resistor, 2-Leads, Body 1,0x0,5mm, IPC Medium Density", RESC1005X04N,,"6,00","0,00","resistor production, surface-mounted",,Basic electronic ,Resistance,,"0,006"
+Capacitor 100nf,100,Surface Mount pads,"CAPC1005X05N 
+",,"38,00","0,00","capacitor production, for surface-mounting","mass = 0,086 g",Basic electronic ,Capacitor,,"0,038"
+Capacitor 10 uF,10000,Surface Mount pads,"CAPC1005X05N 
+",,"8,00","0,00","capacitor production, for surface-mounting",,Basic electronic ,Capacitor,,"0,008"
+Capacitor 51 pF,"0,051",Surface Mount pads,"CAPC1005X05N 
+",,"2,00","0,00","capacitor production, for surface-mounting",,Basic electronic ,Capacitor,,"0,002"
+"Capacitor 4,7 nF","4,7",Surface Mount pads,"CAPC1005X05N 
+",,"7,00","0,00","capacitor production, for surface-mounting",,Basic electronic ,Capacitor,,"0,007"
+"Capacitor 4,7 uF",4700,Surface Mount pads,"CAPC1005X05N 
+",,"9,00","0,00","capacitor production, for surface-mounting",,Basic electronic ,Capacitor,,"0,009"
+"Capacitor 10 uF X5R 
+",10000,Surface Mount pads,"CAPC1005X05N 
+",,"8,00","0,00","capacitor production, for surface-mounting",,Basic electronic ,Capacitor,,"0,008"
+Capacitor 18 pF,"0,018",Surface Mount pads,"CAPC1005X05N 
+",,"2,00","0,00","capacitor production, for surface-mounting",,Basic electronic ,Capacitor,,"0,002"
+Capacitor 1 nF,1,Surface Mount pads,"CAPC1005X05N 
+",,"2,00","0,00","capacitor production, for surface-mounting",,Basic electronic ,Capacitor,,"0,002"
+Capacitor 1uF,1000,Surface Mount pads,"CAPC1005X05N 
+",,"3,00","0,00","capacitor production, for surface-mounting",,Basic electronic ,Capacitor,,"0,003"
+"Capacitor 1,5 nF","1,5",Surface Mount pads,"CAPC1005X05N 
+",,"1,00","0,00","capacitor production, for surface-mounting",,Basic electronic ,Capacitor,,"0,001"
+Capacitor 47 nF,47,Surface Mount pads,"CAPC1005X05N 
+",,"3,00","0,00","capacitor production, for surface-mounting",,Basic electronic ,Capacitor,,"0,003"
+"Motor, General Kind",,DC plastic gear motor with low speed and big torque,TGP01S-A130,"http://www,ttmotor,com/productshow,php?sid=212&id=119","2,00","30,00","electronic motor, vehicle",,MOTOR,MOTOR,,60
+"Multicell Battery 3,7V, 1500 mAh","3,7V  and 1500mAh","Li-Po, 3,7V, 1'500 mAh, rechargeable via USB,",,"https://fr,made-in-china,com/co_dtpbattery/product_Dtp903450-Lithium-Polymer-Batterie-3-7-V-1500mAh-Lipo-Battery_oyniyosog,html  (EQ MODEL)","1,00","30,00","battery production, Li-ion, rechargeable, prismatic","2,1 kWh, 48 V",Battery,Battery,"LiFePO4 batteries are a subtype of lithium-ion batteries                       https://blog,ecoflow,com/us/lifepo4-vs-lithium-ion-batteries/",30
+LED red 56,56,Red led with Light intensity: 56 mcd,DIO C 1608X08N,"https://www,reichelt,com/de/en/led-smd-0603-red-56-mcd-100--evl-19-21surc-s2-p231657,html","4,00","0,05","diode production, glass-, for surface-mounting","5 mm, 0,35g",Light emitting diode,Light emitting diode,SMD ,"0,2"
+LED RGB ,,"Light LED with 3 colors available
+",QBLP679E-RGB ,"https://www,digikey,ch/en/products/detail/qt-brightek-qtb/QBLP679-RGB/5604216","4,00","0,05","diode production, glass-, for surface-mounting",,Light emitting diode,Light emitting diode,,"0,2"
+LED red mounted on Thymio’s side,,Red led on side of thymio,27-21-EVERLIGHT,"https://everlighteurope,com/pcb/1314/2721R6CAP1Q2B3C,html","12,00","0,05","diode production, glass-, for surface-mounting",,Light emitting diode,Light emitting diode,,"0,6"
+LED blue mounted on Thymio’s side,,Blue led on side of thymio,27-21 EVERLIGHT,"https://everlighteurope,com/pcb/2211/2721Y2CCPQB3C,html","3,00","0,05","diode production, glass-, for surface-mounting",,Light emitting diode,Light emitting diode,,"0,15"
+LED Standard,,,,"https://www,swissdis,ch/fr/produits/led/puce-cms,html (can’t find right model from now)","11,00","0,05","diode production, glass-, for surface-mounting",,Light emitting diode,Light emitting diode,,"0,55"
+LED red 57,57,Red led with Light intensity = 57 mcd,,"https://www,reichelt,com/de/en/led-smd-0603-red-56-mcd-100--evl-19-21surc-s2-p231657,html (EQ MODEL)","2,00","0,05","diode production, glass-, for surface-mounting",,Light emitting diode,Light emitting diode,,"0,1"
+Diode Schottky Barrier Double Diode ,-,,BAT54S,"https://www,mouser,com/datasheet/2/302/BAT54_SERIES-254801,pdf","2,00","0,05","diode production, glass-, for surface-mounting",32mg,Light emitting diode,Light emitting diode,,"0,1"
+SMD ferrite bead for EMI suppression ,,"Ferrite bead to suppress electromagnetic field interference due to electronical  near each other, Surface Mount Device (SMD)",,"https://fr,rs-online,com/web/p/perles-de-ferrites/7362116  (can’t find right model from now)","5,00","1,00",ceramic tile,,Basic electronic ,Ferrite,,5
+Loudspeaker,,,,,"1,00","1,00",Micro Speaker ,,Sensors,?,,1
+Omnidirectional Back Electret Condenser,,"Small microphones for general use, Back electret type designed for high resistance to vibrations, high signal-to-noise ratio, High sensitivity type,
+ESSAYER: condensor microphone, Autre definition: microphone qui ne necessite que une alimentation externe faible d'ou presence dans ordi, smarphone, Quasiment tous les micros cravate et micros-casque appartiennent à la famille des micros à électret, Autre definition: microphone qui ne necessite que une alimentation externe faible d'ou presence dans ordi, smarphone, Quasiment tous les micros cravate et micros-casque appartiennent à la famille des micros à électret",TD4015BPN ,"https://www,amazon,com/Omnidirectional-Electret-Condenser-Microphone-Cartridge/dp/B018HXM9RS (can’t find right model from now)","1,00","0,20",Micro Speaker ,,Sensors,Microphone,,"0,2"
+General purpose transistor,,"General purpose : current amplification
+","BC 817-40 
+","https://www,distrelec,ch/en/general-purpose-transistor-npn-45v-sot-23-nxp-bc817-40/p/17100639?&cq_src=google_ads&cq_cmp=18320642092&cq_con=&cq_term=&cq_med=pla&cq_plac=&cq_net=x&cq_pos=&cq_plt=gp&gclsrc=aw,ds&gclid=EAIaIQobChMIpYmQrp_y_QIVCb3VCh26mg8UEAYYASABEgL8C_D_BwE&gclsrc=aw,ds","36,00","0,01","transistor production, surface-mounted","mass = 0,593 g",Basic electronic ,Transistor,,"0,36"
+Thermistors ,25,temperature Sensors -> Approximate by resistor 10 kOhm at 25°C,"NCP15XH103F03RC 
+","https://www,digikey,ch/en/products/detail/murata-electronics/NCP15XH103F03RC/1644666?s=N4IgTCBcDaIHIGEAKBGArADQBIoAwGYAxAgJQRAF0BfIA","1,00","0,01","resistor production, surface-mounted","mass = 9,8mg",Sensors,Resistance,,"0,01"
+Micro SD connector,,"PCB (surface ?), pins + other electronics s ?",Micro SD-Astron 5190008-XA4-R,"http://www,astron,com,tw/pdf/5190008-XA4-R,pdf","1,00","0,43","Connector, computer Peripheral type",,Peripheral Connectors,?,See report Ecoinvent,"0,43"
+Switch ,,Button,"FSMRA2JH 
+","https://www,te,com/usa-en/product-1825027-5,html?te_bu=Cor&te_type=disp&te_campaign=trp_glo_cor-trp-global-disp-prtnr-tp-pdp-prod-details-link_sma-305_5&elqCampaignId=39892%27","1,00","1,00","keyboard production, GLO",,Sensors,Switch,Masse d'une touche de clavier c'est un tactil switch voir sur ecoquery ,1
+Transistor MOSFET,,Transistor MOSFET surface mounted,DMG1013UW-7,"https://www,futureelectronics,com/p/semiconductors--discretes--transistors--mosfets/dmg1013uw-7-diodes-incorporated-1003964?gclid=EAIaIQobChMIuPmUgKTy_QIVn4xoCR2KggvaEAAYASAAEgIG0vD_BwE","4,00","0,00","transistor production, surface-mounted","mass = 0,593 g",Basic electronic ,Transistor,,"0,0016"
+Transistor MOSFET   type 2 ,,Transistor MOSFET surface mounted,"DMG1012UW 
+","https://www,newark,com/diodes-inc/dmg1012uw/mosfet-n-channel-w-esd-20v-1a/dp/65T8207","4,00","0,00","transistor production, surface-mounted",,Basic electronic ,Transistor,,"0,0016"
+Accelerometer,,"three-axis linear accelerometer belonging to the “femto” family with digital I2C/SPI serial interface standard output, contained of a small thin plastic land grid array package (LGA) ","STM-LIS2DE12-LGA-12 
+","https://www,st,com/en/mems-and-Sensorss/lis2de12,html","1,00","1,00",IC LOGIC ,,Sensors,Accelerometer,,1
+"Opto Interrupter 
+part 1/2 ",,"infrared emitting diode and an NPN silicon phototransistor, encased side-by-side on converging optical axis in a black thermoplastic housing (infrared Sensors)
+","ITR9909_LONG 
+https://www,application-datasheet,com/pdf/everlight-electronics/512766/itr9909,html","https://datasheet,lcsc,com/lcsc/2010221806_Everlight-Elec-ITR9909_C53399,pdf","2,00","0,01","transistor production, surface-mounted (10% of tot mass)",,Sensors,LED + Transistor,,"0,01008"
+"Opto Interrupter 
+part 2/2 ",,"infrared emitting diode and an NPN silicon phototransistor, encased side-by-side on converging optical axis in a black thermoplastic housing (infrared Sensors)
+","ITR9909_LONG 
+https://www,application-datasheet,com/pdf/everlight-electronics/512766/itr9909,html","https://datasheet,lcsc,com/lcsc/2010221806_Everlight-Elec-ITR9909_C53399,pdf","2,00","0,05","diode production (90% tot mass), glass-, for through hole mounting  ",,Sensors,Switch,,"0,0909"
+Operational Amplifier,,operational amplifier is an integrated circuit that can amplify weak electronic signals,"MCP6L04T-E/ST Microchip, Op Amp,","https://befr,rs-online,com/web/p/op-amps/1653575","2,00","0,20",IC LOGIC ,,Basic electronic ,Operational amplifier,,"0,4"
+Opto Interrupter type 2 Part 1/2,,"infrared emitting diode and an NPN silicon phototransistor, encased side-by-side on converging optical axis in a black thermoplastic housing (infrared Sensors)
+","ITR9909_EDGE
+","https://datasheet,lcsc,com/lcsc/2010221806_Everlight-Elec-ITR9909_C53399,pdf","7,00","0,01","transistor production, surface-mounted (10% of tot mass)",,Sensors,LED + Transistor,,"0,03528"
+Opto Interrupter type 2 Part 2/2,,"infrared emitting diode and an NPN silicon phototransistor, encased side-by-side on converging optical axis in a black thermoplastic housing (infrared Sensors)
+","ITR9909_EDGE
+","https://datasheet,lcsc,com/lcsc/2010221806_Everlight-Elec-ITR9909_C53399,pdf","7,00","0,05","diode production (90% tot mass), glass-, for through hole mounting  ",,Sensors,,,"0,31815"
+8-bit Shift Register with 3-state output registers,,8-bit Shift Register with 3-state output registers,SN74HC595PWR,"https://ch,farnell,com/texas-instruments/sn74hc595pwr/ic-8bit-sipo-shift-register-tssop/dp/3004214?mckv=s_dc|pcrid|650728751685|kword|sn74hc595pwr|match|p|plid||slid||product||pgrid|155293823468|ptaid|kwd-340756517234|&CMP=KNC-GCH-GEN-SKU-MDC-Semiconductor-996","5,00","0,10",IC MEMORY,,Basic electronic ,?,,"0,52"
+CMOS process low dropout linear regulator ,,"CMOS process low dropout linear regulator with enable function, the regulator delivers a guaranteed 300mA (min,)
+continuous load current,","AP2112K-3,3TRG1","https://www,diodes,com/assets/Datasheets/AP2112,pdf","2,00","0,00",IC LOGIC ,,Basic electronic ,TRANSISTOR,,"0,0016"
+General Purpose USB Microcontroller,,"Microcontroller 128 KB program memory , 16-bit flash memory, CPU speed: 16 Mhz","PIC 24F J128GB106-I/PT 
+","https://www,microchip,com/en-us/product/PIC24FJ128GB106","1,00","1,00",IC LOGIC ,,Microcontroller,MCU,,1
+IR receiver part 1/2,,"miniature type infrared receiver 38kHz, with wire","IRM-3638T 
+","https://everlighteurope,com/ir-receiver-module-irm/2315/IRM3638T,html","1,00","0,04", IC LOGIC (10% tot mass),,Sensors,LED + TRANSISTOR,,"0,04"
+IR receiver part 2/2,,"miniature type infrared receiver 38kHz, with wire","IRM-3638T 
+","https://everlighteurope,com/ir-receiver-module-irm/2315/IRM3638T,html","1,00","0,36","diode production (90% tot mass), glass-, for through hole mounting  ",,Sensors,,,"0,36"
+Battery Charge Management Controller,,Stand-Alone System Load Sharing and Li-Ion/Li-Polymer Battery Charge Management Controller,MCP73871-2CAI/ML,"https://www,mouser,ch/datasheet/2/268/MCP73871_Data_Sheet_DS20002090F-2932254,pdf","1,00","0,04",IC LOGIC ,,Battery,?,,"0,04"
+ULDO REGULATOR,,"The AP2210 is a 300mA ULDO regulator which provides very low noise, ultra-low dropout voltage 
+","AP2210K-3,3TRG1
+https://eu,mouser,com/ProductDetail/Diodes-Incorporated/AP2210K-50TRG1?qs=x6A8l6qLYDCAXUjYnFg7HQ%3D%3D&gclid=Cj0KCQjwla-hBhD7ARIsAM9tQKvg0Ko7v21oqZvEGS0CUH3OmwRMRAHeH5QY9pfDixMfg4E1RmZYGzgaAmo_EALw_wcB","https://www,diodes,com/assets/Datasheets/AP2210,pdf","3,00","0,02",IC LOGIC ,,Basic electronic ,?,,"0,045"
+USB/Charger and over voltage detection device,,The FAN3988 is a USB-connection-monitoring device used top determine if a standard USB device or a battery charging device is connected,FAN3988,"https://www,mouser,com/datasheet/2/149/FAN3988-268292,pdf","1,00","0,01",IC LOGIC ,,Peripheral Connectors,USB charger,,"0,014"
+Audio power amplifier,,"350mWAudioPower Amplifier withShutdownMode 
+",LM4819M,"https://www,mouser,ch/ProductDetail/Texas-Instruments/LM4819M?qs=51W%2FvVdgODiTMNDsaIUrdQ%3D%3D","1,00","0,14",IC LOGIC ,,Basic electronic ,Operational amp,,"0,143"
+1 x 6 pins connector,,,"MHDR1X6 
+","https://www,distrelec,ch/en/straight-male-pcb-header-through-hole-rows-contacts-54mm-pitch-rnd-connect-rnd-205-00627/p/30093647?&cq_src=google_ads&cq_cmp=18320642092&cq_con=&cq_term=&cq_med=pla&cq_plac=&cq_net=x&cq_pos=&cq_plt=gp&gclsrc=aw,ds&gclid=CjwKCAjw5pShBhB_EiwAvmnNV1gH0dDhoBYSymaLjJ6zajcNJ6qSEcmYQZyxXw3ZF80HocQbmab3mBoCNnsQAvD_BwE&gclsrc=aw,ds","1,00","0,05",brass production,,Basic electronic ,?,,"0,048"
+WR-COM Micro USB,,WR-Communication Connector,,"https://www,we-online,com/en/s/products/COM_MICRO_SMT_TYPE_B_HORIZONTAL","1,00","0,70","Connector, computer Peripheral type (pas trouvé)",,Peripheral Connectors,?,,"0,7"
+Surface Mount Quartz Crystal 8Mh ,,Play the role of clock,,,"1,00","0,04",silica sand production,,Basic electronic ,Quartz,,"0,04"
+Casing - ABS,,robot's shell,,,"1,00","107,00",Copolymer production,,Shell ,,,107
+Casing - Polycarbonate,,robot's tyre,,,"2,00","4,00",Polycarbonate production,,Shell ,,,8
+ON/OFF BUTTON,,,,,"1,00","0,50",IC LOGIC ,,Sensors,,,"0,5"
+Screw,,,,,"8,00","0,63",SCREW,,Shell ,,,5
+PCB,,,,,"1,00","36,57",PCB,,Basic electronic ,,,"36,57"
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,"262,02921",

@@ -1,0 +1,16 @@
+indicator,unit,value,Detail
+ADPe,PBCI,0.2401491001,Resource use. minerals and metals
+ADPf,PBCI,0.0076895344,Resource use. fossils (MJ)
+AP,PBCI,0.0009829473,Acidification (mol H+ eq.)
+CTUe,PBCI,0.1223770914,Ecotoxicity. freshwater (CTUe)
+CTUh-c,PBCI,0.0001330916,Human toxicity. cancer (CTUh)
+CTUh-nc,PBCI,0.0014366721,Human toxicity. non-cancer (CTUh)
+Epf,PBCI,0.0320408546,Eutrophication. freshwater (kg P eq.)
+Epm,PBCI,0.0009519255,Eutrophication. marine (kg N eq.)
+Ept,PBCI,0.0003326651,Eutrophication. terrestrial (mol N eq.)
+GWP,PBCI,0.0198014227,Climate change (kg CO2 eq.)
+IR,PBCI,0.0000307661,Ionising radiation. human health (kg U235 eq.)
+LU,PBCI,0.0486456516,Land use (dimensionless)
+ODP,PBCI,0.0000217698,Ozone depletion (kg CFC-11 eq.)
+PM,PBCI,0.0138036417,Particulate matter (disease occurrences)
+POCP,PBCI,0.0013088693,Photochemical ozone formation (kg NMVOC eq.)

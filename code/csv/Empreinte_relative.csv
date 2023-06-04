@@ -1,0 +1,261 @@
+indicator,unit,block,value
+ADPe,%,Power supply,1.61
+ADPe,%,Shell,0.01
+ADPe,%,Capaciteurs,0
+ADPe,%,Sensors,16.41
+ADPe,%,Basic electronic components,71.09
+ADPe,%,Conception,0
+ADPe,%,Peripheral connectors,0.1
+ADPe,%,LED,0.41
+ADPe,%,Microcontroller,9.36
+ADPe,%,Motor,01.01
+ADPe,%,Others components,0
+ADPe,%,Resistances,0
+ADPe,%,Transisteurs,0
+ADPf,%,Power supply,1.71
+ADPf,%,Shell,4.64
+ADPf,%,Capaciteurs,0
+ADPf,%,Sensors,15.57
+ADPf,%,Basic electronic components,66.06
+ADPf,%,Conception,0
+ADPf,%,Peripheral connectors,0.1
+ADPf,%,LED,2.53
+ADPf,%,Microcontroller,08.07
+ADPf,%,Motor,1.3
+ADPf,%,Others components,0
+ADPf,%,Resistances,0
+ADPf,%,Transisteurs,0
+AP,%,Power supply,3.74
+AP,%,Shell,2.34
+AP,%,Capaciteurs,0
+AP,%,Sensors,14.22
+AP,%,Basic electronic components,66.67
+AP,%,Conception,0
+AP,%,Peripheral connectors,0.1
+AP,%,LED,2.19
+AP,%,Microcontroller,7.16
+AP,%,Motor,3.57
+AP,%,Others components,0
+AP,%,Resistances,0
+AP,%,Transisteurs,0
+CTUe,%,Power supply,02.01
+CTUe,%,Shell,0.3
+CTUe,%,Capaciteurs,0
+CTUe,%,Sensors,16.01
+CTUe,%,Basic electronic components,70.39
+CTUe,%,Conception,0
+CTUe,%,Peripheral connectors,0.1
+CTUe,%,LED,0.75
+CTUe,%,Microcontroller,8.95
+CTUe,%,Motor,1.49
+CTUe,%,Others components,0
+CTUe,%,Resistances,0
+CTUe,%,Transisteurs,0
+CTUh-c,%,Power supply,7.74
+CTUh-c,%,Shell,0.95
+CTUh-c,%,Capaciteurs,0
+CTUh-c,%,Sensors,14.24
+CTUh-c,%,Basic electronic components,61.13
+CTUh-c,%,Conception,0
+CTUh-c,%,Peripheral connectors,0.08
+CTUh-c,%,LED,01.08
+CTUh-c,%,Microcontroller,6.38
+CTUh-c,%,Motor,8.4
+CTUh-c,%,Others components,0
+CTUh-c,%,Resistances,0
+CTUh-c,%,Transisteurs,0
+CTUh-nc,%,Power supply,6.32
+CTUh-nc,%,Shell,0.37
+CTUh-nc,%,Capaciteurs,0
+CTUh-nc,%,Sensors,14.09
+CTUh-nc,%,Basic electronic components,65
+CTUh-nc,%,Conception,0
+CTUh-nc,%,Peripheral connectors,0.09
+CTUh-nc,%,LED,1.11
+CTUh-nc,%,Microcontroller,7.35
+CTUh-nc,%,Motor,5.66
+CTUh-nc,%,Others components,0
+CTUh-nc,%,Resistances,0
+CTUh-nc,%,Transisteurs,0
+Epf,%,Power supply,1.76
+Epf,%,Shell,0.14
+Epf,%,Capaciteurs,0
+Epf,%,Sensors,16.17
+Epf,%,Basic electronic components,70.46
+Epf,%,Conception,0
+Epf,%,Peripheral connectors,0.1
+Epf,%,LED,01.09
+Epf,%,Microcontroller,09.03
+Epf,%,Motor,1.25
+Epf,%,Others components,0
+Epf,%,Resistances,0
+Epf,%,Transisteurs,0
+Epm,%,Power supply,2.15
+Epm,%,Shell,2.61
+Epm,%,Capaciteurs,0
+Epm,%,Sensors,15.71
+Epm,%,Basic electronic components,66.94
+Epm,%,Conception,0
+Epm,%,Peripheral connectors,0.11
+Epm,%,LED,2.2
+Epm,%,Microcontroller,8.2
+Epm,%,Motor,02.09
+Epm,%,Others components,0
+Epm,%,Resistances,0
+Epm,%,Transisteurs,0
+Ept,%,Power supply,2.2
+Ept,%,Shell,2.51
+Ept,%,Capaciteurs,0
+Ept,%,Sensors,15.57
+Ept,%,Basic electronic components,67.14
+Ept,%,Conception,0
+Ept,%,Peripheral connectors,0.11
+Ept,%,LED,02.04
+Ept,%,Microcontroller,8.21
+Ept,%,Motor,2.22
+Ept,%,Others components,0
+Ept,%,Resistances,0
+Ept,%,Transisteurs,0
+GWP,%,Power supply,1.69
+GWP,%,Shell,3.4
+GWP,%,Capaciteurs,0
+GWP,%,Sensors,15.72
+GWP,%,Basic electronic components,66.79
+GWP,%,Conception,0
+GWP,%,Peripheral connectors,0.1
+GWP,%,LED,2.58
+GWP,%,Microcontroller,8.15
+GWP,%,Motor,1.55
+GWP,%,Others components,0
+GWP,%,Resistances,0
+GWP,%,Transisteurs,0
+GWPb,%,Power supply,2.14
+GWPb,%,Shell,1.87
+GWPb,%,Capaciteurs,0
+GWPb,%,Sensors,15.47
+GWPb,%,Basic electronic components,66.26
+GWPb,%,Conception,0
+GWPb,%,Peripheral connectors,0.1
+GWPb,%,LED,05.03
+GWPb,%,Microcontroller,8.72
+GWPb,%,Motor,0.41
+GWPb,%,Others components,0
+GWPb,%,Resistances,0
+GWPb,%,Transisteurs,0
+GWPf,%,Power supply,1.69
+GWPf,%,Shell,3.43
+GWPf,%,Capaciteurs,0
+GWPf,%,Sensors,15.72
+GWPf,%,Basic electronic components,66.8
+GWPf,%,Conception,0
+GWPf,%,Peripheral connectors,0.1
+GWPf,%,LED,2.56
+GWPf,%,Microcontroller,8.14
+GWPf,%,Motor,1.57
+GWPf,%,Others components,0
+GWPf,%,Resistances,0
+GWPf,%,Transisteurs,0
+GWPlu,%,Power supply,1.73
+GWPlu,%,Shell,0.24
+GWPlu,%,Capaciteurs,0
+GWPlu,%,Sensors,15.75
+GWPlu,%,Basic electronic components,69.88
+GWPlu,%,Conception,0
+GWPlu,%,Peripheral connectors,0.1
+GWPlu,%,LED,2.36
+GWPlu,%,Microcontroller,8.36
+GWPlu,%,Motor,1.58
+GWPlu,%,Others components,0
+GWPlu,%,Resistances,0
+GWPlu,%,Transisteurs,0
+IR,%,Power supply,1.46
+IR,%,Shell,0.13
+IR,%,Capaciteurs,0
+IR,%,Sensors,16.23
+IR,%,Basic electronic components,70.26
+IR,%,Conception,0
+IR,%,Peripheral connectors,0.11
+IR,%,LED,2.6
+IR,%,Microcontroller,8.62
+IR,%,Motor,0.6
+IR,%,Others components,0
+IR,%,Resistances,0
+IR,%,Transisteurs,0
+LU,%,Power supply,2.51
+LU,%,Shell,0.24
+LU,%,Capaciteurs,0
+LU,%,Sensors,16.37
+LU,%,Basic electronic components,68.84
+LU,%,Conception,0
+LU,%,Peripheral connectors,0.1
+LU,%,LED,1.68
+LU,%,Microcontroller,8.41
+LU,%,Motor,1.85
+LU,%,Others components,0
+LU,%,Resistances,0
+LU,%,Transisteurs,0
+ODP,%,Power supply,1.54
+ODP,%,Shell,0.58
+ODP,%,Capaciteurs,0
+ODP,%,Sensors,15.85
+ODP,%,Basic electronic components,71.18
+ODP,%,Conception,0
+ODP,%,Peripheral connectors,0.1
+ODP,%,LED,1.15
+ODP,%,Microcontroller,8.83
+ODP,%,Motor,0.77
+ODP,%,Others components,0
+ODP,%,Resistances,0
+ODP,%,Transisteurs,0
+PM,%,Power supply,2.68
+PM,%,Shell,3.91
+PM,%,Capaciteurs,0
+PM,%,Sensors,15.13
+PM,%,Basic electronic components,65.09
+PM,%,Conception,0
+PM,%,Peripheral connectors,0.1
+PM,%,LED,2.55
+PM,%,Microcontroller,7.67
+PM,%,Motor,2.87
+PM,%,Others components,0
+PM,%,Resistances,0
+PM,%,Transisteurs,0
+POCP,%,Power supply,2.41
+POCP,%,Shell,3.34
+POCP,%,Capaciteurs,0
+POCP,%,Sensors,15.31
+POCP,%,Basic electronic components,66.34
+POCP,%,Conception,0
+POCP,%,Peripheral connectors,0.11
+POCP,%,LED,02.01
+POCP,%,Microcontroller,7.88
+POCP,%,Motor,2.58
+POCP,%,Others components,0
+POCP,%,Resistances,0
+POCP,%,Transisteurs,0
+TPE,%,Power supply,1.75
+TPE,%,Shell,4.31
+TPE,%,Capaciteurs,0
+TPE,%,Sensors,15.59
+TPE,%,Basic electronic components,66.32
+TPE,%,Conception,0
+TPE,%,Peripheral connectors,0.1
+TPE,%,LED,2.54
+TPE,%,Microcontroller,08.07
+TPE,%,Motor,1.31
+TPE,%,Others components,0
+TPE,%,Resistances,0
+TPE,%,Transisteurs,0
+WU,%,Power supply,2.15
+WU,%,Shell,4.13
+WU,%,Capaciteurs,0
+WU,%,Sensors,15.39
+WU,%,Basic electronic components,65.79
+WU,%,Conception,0
+WU,%,Peripheral connectors,0.1
+WU,%,LED,2.81
+WU,%,Microcontroller,7.86
+WU,%,Motor,1.78
+WU,%,Others components,0
+WU,%,Resistances,0
+WU,%,Transisteurs,0
